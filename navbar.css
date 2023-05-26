@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: gold;
+    height: 0px;
+    padding-left: 20px;
+    position: absolute;
+    top: -1%;
+    width: 96%;
+}
+.navbar a{
+    display: block;
+    line-height: 30px;
+    text-decoration: none;
+}
+.navbar p{
+    cursor: pointer;
+}
